@@ -41,6 +41,7 @@ $ npm install
 ```
 
 # Start the development server
+```bash
 $ npm run dev
 ```
 
@@ -50,7 +51,7 @@ $ npm run dev
 
 
 ## 📁 Folder Structure
-
+```bash
 
 password-generator/
 ├── public/
